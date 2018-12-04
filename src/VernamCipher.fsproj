@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Constants.fs" />
+    <Compile Include="BinaryString.fs" />
+    <Compile Include="VernamEncrytpor.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
